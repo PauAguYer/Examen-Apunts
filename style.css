@@ -1,0 +1,52 @@
+header.Titol{
+    text-align: center;
+}
+
+div.caixa1{
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+
+div.caixa2{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+
+div.caixa3{
+    background-color: yellow;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+
+iframe{
+    width: 600px;
+    height: 400px;
+    display: inline-block;
+}
+
+span.verd{
+    background-color: green;
+}
+
+
+div.web{
+    background-color: aquamarine;
+}
+
+.green {
+    width: 100%; 
+    height: 40px; 
+    background-color: green; 
+}
+
+
+div.caja{
+    display: flex;
+    width: 100%;
+    gap: 0;
+}
